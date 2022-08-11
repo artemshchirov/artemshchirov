@@ -9,6 +9,10 @@
   <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemShchirov&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Artem Shchirov" />
 </div>
 
+<div align="center">  
+  <img height="40px" width="400px" src="https://www.codewars.com/users/Artemeow/badges/large" alt="Codewars badge" />
+</div>
+
 ### Main skills:
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/artemshchirov/how-to-learn)&nbsp;
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/artemshchirov/russian-travel)&nbsp;
