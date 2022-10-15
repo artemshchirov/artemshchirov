@@ -19,11 +19,8 @@
   <h3> Other Knowledge </h3>
   <img src="https://skillicons.dev/icons?i=express,mongodb,python,linux" />
   
-  <h3> Studying in this moment </h3>
-  <img src="https://skillicons.dev/icons?i=typescript,sass" />
-
   <h3> Areas of Interest </h3>
-  <img src="https://skillicons.dev/icons?i=redux,vue" />
+  <img src="https://skillicons.dev/icons?i=typescript,sass,redux,vue" />
 
   <h3> Contact </h3>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
