@@ -23,12 +23,13 @@
   <img src="https://skillicons.dev/icons?i=express,mongodb,nestjs,postgres,firebase,python" />
   
   <h3> Areas of Interest </h3>
-  <img src="https://skillicons.dev/icons?i=redux,angular,docker" />
+  <img src="https://skillicons.dev/icons?i=docker,angular,redux,graphql,apollo,tailwind" />
 
   <h3> Contact </h3>
   <a href="https://artemshchirov.github.io/portfolio/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/artemshchirov/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://artemshchirov.github.io/portfolio/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://telegram.me/mindisakey"><img src="https://img.shields.io/badge/telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://wa.me/+972584441705"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
 
 
