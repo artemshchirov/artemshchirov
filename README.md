@@ -5,16 +5,18 @@
 
 
 <div align="center">  
-  
   <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ArtemShchirov&theme=react-dark&hide_border=true&area=true&radius=7" />
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ArtemShchirov&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="ArtemShchirov github stats" /> 
+  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ArtemShchirov&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="ArtemShchirov github stats" />
+  
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemShchirov&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  
   <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemShchirov&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Artem Shchirov github stats" />
- 
+  
   <img height="40px" width="400px" src="https://www.codewars.com/users/Artemeow/badges/large" alt="Codewars badge" />
 
   <h3 > Main Skills </h3>
- <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nodejs" />
 
   <h3> Tools </h3>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,nginx,figma" />
