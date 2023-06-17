@@ -5,7 +5,7 @@
 
 
 <div align="center">  
-  <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ArtemShchirov&theme=react-dark&hide_border=true&area=true&radius=7" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArtemShchirov&theme=react-dark&hide_border=true&area=true&radius=7" />
   
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ArtemShchirov&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="ArtemShchirov github stats" />
   
@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=express,mongodb,nestjs,postgres,firebase,python" />
   
   <h3> Areas of Interest </h3>
-  <img src="https://skillicons.dev/icons?i=docker,angular,redux,graphql,apollo,tailwind" />
+  <img src="https://skillicons.dev/icons?i=tailwind,docker,next,vite,redux,graphql" />
 
   <h3> Contact </h3>
   <a href="https://artemshchirov.github.io/portfolio/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
