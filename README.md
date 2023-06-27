@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,nginx,figma" />
   
   <h3> Other Knowledge </h3>
-  <img src="https://skillicons.dev/icons?i=express,mongodb,nestjs,postgres,firebase,nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,firebase" />
   
   <h3> Areas of Interest </h3>
   <img src="https://skillicons.dev/icons?i=tailwind,docker,next,vite,redux,graphql" />
