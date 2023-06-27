@@ -16,13 +16,13 @@
   <img height="40px" width="400px" src="https://www.codewars.com/users/Artemeow/badges/large" alt="Codewars badge" />
 
   <h3 > Main Skills </h3>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,python" />
 
   <h3> Tools </h3>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,nginx,figma" />
   
   <h3> Other Knowledge </h3>
-  <img src="https://skillicons.dev/icons?i=express,mongodb,nestjs,postgres,firebase,python" />
+  <img src="https://skillicons.dev/icons?i=express,mongodb,nestjs,postgres,firebase,nodejs" />
   
   <h3> Areas of Interest </h3>
   <img src="https://skillicons.dev/icons?i=tailwind,docker,next,vite,redux,graphql" />
