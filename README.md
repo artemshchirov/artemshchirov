@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Artem%20Shchirov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+ARTEM+SHCHIROV;MY+SPECIALIZATION+===+WEB+DEVELOPMENT;MY+EXPERIENCE+>+2+YEARS+IN+PROGRAMMING)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+ARTEM+SHCHIROV;MY+SPECIALIZATION+===+WEB+DEVELOPMENT;MY+EXPERIENCE+>+3+YEARS+IN+PROGRAMMING)
 
 
 <div align="center">  
@@ -16,16 +16,16 @@
   <img height="40px" width="400px" src="https://www.codewars.com/users/Artemeow/badges/large" alt="Codewars badge" />
 
   <h3 > Main Skills </h3>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs" />
 
   <h3> Tools </h3>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,nginx,figma" />
   
   <h3> Other Knowledge </h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis" />
   
   <h3> Areas of Interest </h3>
-  <img src="https://skillicons.dev/icons?i=tailwind,docker,next,vite,redux,graphql" />
+  <img src="https://skillicons.dev/icons?i=tailwind,docker,supabase,vercel,prisma,graphql" />
 
   <h3> Contact </h3>
   <a href="https://artemshchirov.github.io/portfolio/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
