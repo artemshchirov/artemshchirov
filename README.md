@@ -13,7 +13,7 @@
   
   <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemShchirov&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Artem Shchirov github stats" />
   
-  <img height="40px" width="400px" src="https://www.codewars.com/users/Artemeow/badges/large" alt="Codewars badge" />
+  <!-- <img height="40px" width="400px" src="https://www.codewars.com/users/Artemeow/badges/large" alt="Codewars badge" /> -->
 
   <h3 > Main Skills </h3>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs" />
